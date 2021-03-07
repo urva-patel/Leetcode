@@ -1,4 +1,4 @@
-const nums = [1,1,2];
+const nums = [0,0,1,1,1,2,2,3,3,4];
 
 var removeDuplicates = function(nums) {
     if (nums == 0) return 0;
